@@ -1,0 +1,10 @@
+#line::after{
+background-color: $primary;
+ content: "";
+  display: inline-block;
+  height: 3px;
+  position: relative;
+  vertical-align: middle;
+  width: 18%;
+  margin-left: 4px;
+}
